@@ -344,8 +344,13 @@ background-color: gray;
       text-indent: 20px;
       font-size: 1.1rem; }
       .img-responsive{
-        padding: 40px;      }
-
+        padding: 40px;     
+       }
+        video{
+          max-width: 100%;
+          height: auto;
+        }
+        
 /* ===================================== Our Blog CSS ================================== */
 .our-blog {
   background-color: #ecf1ff;
